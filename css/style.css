@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrapper{
+  height: 100vh;
+  background-color: #ADD8E6;
+  font-family: 'Nerko One', cursive;
+}
+#root{
+  text-align: center;
+}
+h1{
+  font-size: 140px;
+  color: blue;
+  margin-bottom: 30px;
+}
+h2{
+  font-size: 70px;
+}
+img{
+  width: 700px;
+}
